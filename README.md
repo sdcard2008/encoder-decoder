@@ -1,6 +1,6 @@
 # A basic customizable encoding and decoding script
 
-To customize:
+**To customize:**
 ```json
 {
     "a" : "=" ,
@@ -13,18 +13,19 @@ To customize:
     "h" : "a" ,
 }
 ```
+***PS:There is more to the json file. This is used for the example.*** 
+
 Let's say , you want to change the character to reaplace with 'l'
-before , it was ``{"l" : "]"}`` 
+
+
+**before , it was ``{"l" : "]"}``** 
 ```json
  {
-    
-    "l" : "]"
-    
-    
+    "l" : "]"  
  }
 ```
 
-after... 
+**after...** 
 
 ```json
 {
@@ -32,7 +33,7 @@ after...
 }
 ```
 
-also , you can add more characters , like this:
+**also , you can add more characters , like this:**
 
 ```json
 {
