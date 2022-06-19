@@ -11,21 +11,20 @@ To customize:
     "f" : "&" ,
     "g" : "{" ,
     "h" : "a" ,
-    // so on and so forth
 }
 ```
 Let's say , you want to change the character to reaplace with 'l'
-** before , it was ``{"l" : "]"}`` **
+before , it was ``{"l" : "]"}`` 
 ```json
  {
-    // ....
+    
     "l" : "]"
     
-    // ....
+    
  }
 ```
 
-** after... **
+after... 
 
 ```json
 {
@@ -33,16 +32,11 @@ Let's say , you want to change the character to reaplace with 'l'
 }
 ```
 
-** also , you can add more characters , like this: **
+also , you can add more characters , like this:
 
 ```json
 {
     "/" : "a",
     "7" : "`"
-    // etc etc....
 }
 ```
-
-
-
-
